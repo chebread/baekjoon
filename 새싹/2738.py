@@ -20,3 +20,5 @@ for i in range(0, m):
 for j in range(0, m):
     x = map(int, input().split())
     b.append(x)
+
+#  - [ ] 행렬 내적하는 거 구현하기
