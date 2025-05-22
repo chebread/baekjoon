@@ -18,3 +18,6 @@ for j in list:
     print(str(j))
 
 # - [ ] s_input 이란 무엇인가?
+
+# - [ ] s_input = s_input = sys.stdin.readline 을 input = sys.stdin.readline 이렇게 input으로 해도 되는 이유가 무엇인가? 원래 input 함수가 지정되어 있기 때문에 불가능하지 않나?
+# 파이썬은 지역 변수를 먼저 활용하도록 프로그래밍 되어 있는가?
